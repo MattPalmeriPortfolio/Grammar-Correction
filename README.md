@@ -9,7 +9,7 @@ Contents
 
 ## File Contents
 	
-	Replace_Separate_Integers_With_X.cpp (program file containing code)
+	Correct_Grammar.cpp (program file containing code)
 
 ## Introduction
 Book practice project from Problem Solving With C++ Chapter 8. Project 1.
@@ -36,7 +36,7 @@ Written using Microsoft Visual Studio.
 					- if it is, check if character after is space 
 						- if so, do nothing (do not output char to new array)
 						- if not, add a space (constant) to the new array
-		3. append a null character to the end, to create a proppa c-string
+		3. append a null character to the end, to create a proper c-string
 		4. output to user
 
 ## Requirements
